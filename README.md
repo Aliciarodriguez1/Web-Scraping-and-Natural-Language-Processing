@@ -1,4 +1,5 @@
-Web APIs & NLP Classifier
+# Web Scraping and Natural Language Processing
+
 Problem Statement
 
 To get two web APIs from Reddit.com and train them by using NLP to make a binary classification and predict which post is from each subreddit.
